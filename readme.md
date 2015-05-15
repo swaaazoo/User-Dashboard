@@ -1,0 +1,1 @@
+User Dashboard created using PHP and CodeIgniter for the backend. HTML5, CSS3, and Bootstrap are used for the frontend. This app has both user and admin login and permissions. Admins can create users, change user info and change permission levels. Users can change their own info and add comments to any user's wall.
